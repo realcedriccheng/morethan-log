@@ -7,13 +7,13 @@ const CONFIG = {
     bio: "I currently focus on researching computer systems and architecture, including Zoned Namespace (ZNS) SSD, File System, and Mobile Storage.",
     email: "cc@cedriccheng.cn",
     linkedin: "",
-    github: "",
+    github: "github.com/realcedriccheng",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `resume`,
+      href: "https://realcedriccheng.github.io",
     },
   ],
   // blog setting (required)
