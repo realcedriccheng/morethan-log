@@ -15,6 +15,10 @@ const CONFIG = {
       name: `resume`,
       href: "https://realcedriccheng.github.io",
     },
+    {
+      name:`link`,
+      href: "https://https://ofw.cedriccheng.cn/link",
+    }，
   ],
   // blog setting (required)
   blog: {
