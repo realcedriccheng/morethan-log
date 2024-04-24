@@ -17,7 +17,7 @@ const CONFIG = {
     },
     {
       name:`link`,
-      href: "https://https://ofw.cedriccheng.cn/link",
+      href: "https://ofw.cedriccheng.cn/link",
     }
   ],
   // blog setting (required)
